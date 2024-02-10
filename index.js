@@ -9,7 +9,7 @@ var words = ["lol", "Are you sure?", "Really sure?", "Pookie please", "Think abo
 
 $(".b1").click(function () { 
     $(".butt").remove();
-    $("h1").text("💓" + "Thank You!!!" + "💓");
+    $("h1").text("💓" + "Thank You Baby!!!" + "💓");
     document.getElementsByTagName("img")[0].getAttribute("src");
     document.getElementsByTagName("img")[0].setAttribute("src", "https://gifdb.com/images/high/cute-dog-sticker-love-heart-un1t8hl7y26rnjpt.gif");
 });
