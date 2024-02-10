@@ -4,7 +4,7 @@ var step = 20;
 var base = 0;
 var plus = 1;
 
-var words = ["lol", "Are you sure?", "Really sure?", "Pookie please", "Think about it", "If you say so, I'll be very sad", "Ok, fine I'll stop asking", "Just kidding, please say yes", "You're breaking my heart"]
+var words = ["lol", "Are you sure?", "Really sure?", "Pookie please", "Think about it", "If you say no, I'll be very sad", "Ok, fine I'll stop asking", "Just kidding, please say yes", "You're breaking my heart"]
 
 
 $(".b1").click(function () { 
